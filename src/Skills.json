@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "C/C++",
+    "width": "85%"
+  },
+  {
+    "id": 2,
+    "name": "HTmL & CSS",
+    "width": "85%"
+  },
+  {
+    "id": 3,
+    "name": "JavaScript",
+    "width": "85%"
+  },
+  {
+    "id": 4,
+    "name": "Python",
+    "width": "70%"
+  },
+  {
+    "id": 5,
+    "name": "PHP",
+    "width": "70%"
+  },
+  {
+    "id": 6,
+    "name": "Java",
+    "width": "70%"
+  },
+  {
+    "id": 7,
+    "name": "React JS",
+    "width": "85%"
+  },
+  {
+    "id": 8,
+    "name": "Vue JS",
+    "width": "90%"
+  },
+  {
+    "id": 9,
+    "name": "TypeScript",
+    "width": "70%"
+  }
+]

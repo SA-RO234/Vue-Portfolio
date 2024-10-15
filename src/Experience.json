@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "role":"Sortware Engineer",
+        "company":"Microsoft",
+        "date":"Mar 2023 - September 2024"
+    },
+    {
+         "id":2,
+         "role":"Frontend Deverloper",
+         "company":"Spotify",
+         "date":"Mar 2022 - September 2023"
+    }
+]

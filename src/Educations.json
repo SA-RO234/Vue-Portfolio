@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "School": "Lvea Hight School",
+    "program": "Hight School",
+    "year": 2022
+  },
+  {
+    "id": 2,
+    "School": "Royal University of Phnom Penh",
+    "program": "Computer Scients",
+    "year": 2023
+  }
+]
